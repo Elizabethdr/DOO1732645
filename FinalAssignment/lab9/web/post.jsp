@@ -27,7 +27,7 @@ if(session.getAttribute("username") == null)
         <image style="position: absolute; right: 20px; top: 100px" src ="Columna2.jpg" border="2" alt="C.2" width="160px" height="600px" align="left">
         <header>
             </br>
-            <center><h1>Tienes algo que compartirnos... </h1></br></center>
+            <center><h1>Comparte tu receta </h1></br></center>
             <center><h2>ADELANTE</h2></center></br>
             <hr size= 5 noshade>
             <style>
